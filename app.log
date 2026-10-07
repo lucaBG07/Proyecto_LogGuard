@@ -1,0 +1,20 @@
+2026-09-22 18:00:00 [INFO] Servidor iniciado correctamente
+2026-09-22 18:00:05 [WARN] Tiempo de respuesta elevado en API esta linea es basura sin formato
+2026-09-22 18:00:10 [ERROR] No se pudo conectar a la base de datos
+2026-09-22 18:05:00 [CRITICAL] Fallo total de memoria en servidor
+2026-09-22 18:05:12 [INFO] Intentando reiniciar el servicio de almacenamiento
+2026-09-22 18:05:20 [INFO] Sincronización de datos completada al 100%
+2026-09-22 18:06:01 [WARN] El uso de CPU ha superado el umbral del 85% esta linea es basura sin formato
+2026-09-22 18:06:15 [ERROR] Certificado SSL expirado para el dominio principal
+2026-09-22 18:07:45 [INFO] Solicitud de inicio de sesión recibida para el usuario admin
+2026-09-22 18:07:48 [WARN] Múltiples intentos fallidos de autenticación desde la IP 192.168.1.50 esta linea es basura sin formato
+2026-09-22 18:08:00 [ERROR] Usuario bloqueado temporalmente por seguridad
+2026-09-22 18:10:22 [INFO] Generando respaldo programado de la base de datos
+2026-09-22 18:11:05 [WARN] Espacio en disco bajo en la partición raíz esta linea es basura sin formato
+2026-09-22 18:12:00 [ERROR] Fallo en la escritura del archivo de respaldo en el volumen externo
+2026-09-22 18:15:30 [CRITICAL] Sobrecalentamiento detectado en el procesador principal
+2026-09-22 18:15:35 [INFO] Iniciando protocolo de apagado de emergencia de servicios no esenciales
+2026-09-22 18:17:10 [WARN] Pérdida de paquetes detectada en la interfaz de red eth0 esta linea es basura sin formato
+2026-09-22 18:18:00 [INFO] Servidor detenido de manera segura por el administrador
+2026-09-22 18:19:15 [INFO] Intento de reconexión automática del sistema
+2026-09-22 18:20:02 [ERROR] Error de timeout al intentar conectar con la pasarela de pagos
