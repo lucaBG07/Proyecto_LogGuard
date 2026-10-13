@@ -132,18 +132,3 @@ func main() {
 		fmt.Println("Error procesando archivo:", err)
 	}
 }
-
-// func main() {
-// 	lineaPrueba := "2026-09-20 11:30:00 [ERROR] fallo la conexion a la base de datos"
-
-// 	entry, err := ParseLogLine(lineaPrueba)
-// 	if err != nil {
-// 		fmt.Println("Error:", err)
-// 		return
-// 	}
-
-// 	fmt.Println("----------LOG PARSEADO EXITOSAMENTE----------")
-// 	fmt.Printf("Fecha/Hora : %s\n", entry.Fecha)
-// 	fmt.Printf("Nivel : %s\n", entry.Level)
-// 	fmt.Printf("Mensaje : %s\n", entry.Mensaje)
-// }
